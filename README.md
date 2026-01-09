@@ -80,7 +80,7 @@ The notebook includes a simple interactive prediction system where users can:
 ## ▶ How to Run the Project
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Anjan580/-SONAR-Rock-vs-Mine-Prediction
    ```
 2. Install dependencies
    ```bash
